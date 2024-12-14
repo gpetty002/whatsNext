@@ -1,0 +1,17 @@
+.custom-nav {
+  /* background-color: rgb(11, 11, 11); */
+  /* color: white; */
+}
+
+.custom-nav .navbar-brand {
+  color: orange;
+  font-weight: bold;
+}
+
+/* .custom-nav .navbar-toggler {
+  color: white !important;
+}
+
+.custom-nav .navbar-toggler-icon {
+  background-color: black !important ;
+} */
